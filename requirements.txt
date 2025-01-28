@@ -1,0 +1,3 @@
+nltk==3.8.1
+yfinance==0.2.31
+prettytable==3.9.0
